@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "AJEEBBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "AJEEBSMP-2r3X.aternos.me:21760",
+    "port": 21760,
     "version": "",
     "try-creative": false
   },
